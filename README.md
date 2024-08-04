@@ -18,10 +18,17 @@ I'm on a thrilling journey as a Full-stack Developer with skills and interests i
 ## Projects Galore!
 
 Dive into some of my mesmerizing projects:
-1. [MediConnection](https://github.com/Cyber-ray2005/MediConnection): Unravel the magic behind this mystical project!
-2. [Location Weather App](https://github.com/Cyber-ray2005/LocationWeatherApp): Embark on an exhilarating adventure with this creation!
-3. [Journal](https://github.com/Cyber-ray2005/Journal): Prepare to be enchanted by the wonders of this project!
-4. [C++ Clinic Appointment System console app](https://github.com/Cyber-ray2005/clinicAppointmentSystem)
+
+# ML and AI
+1. [ML Health Prognosis and Vitals Check-Up Nursing Platform](https://github.com/AreebAshar/ML-Health-Prognosis-Capstone-Project)
+
+# Networks
+1. [TCP Implementation](https://github.com/AreebAshar/TCP_Implementation)
+2. [FTP Client-Server Implementation](https://github.com/AreebAshar/FTP_Client-Server)
+3. [MiniTalk - A client-server chatbpx](https://github.com/AreebAshar/MiniTalk)
+
+# OOP
+1. [C++ Student Registration System](https://github.com/AreebAshar/Student-Registration-System)
 
 ## 📚 Education
 
