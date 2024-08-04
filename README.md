@@ -11,7 +11,7 @@ I'm on a thrilling journey as a Full-stack Developer with skills and interests i
 - **Database**: SQL, NoSQL
 - **Cloud**: AWS, Oracle, and Azure
 - **Visualization and Data**: Python, Excel, PowerBI
-- **Magic**: Git, GitHub, VS Code, Heroku, Firebase, Postman
+- **Magic**: Git, GitHub, VS Code, Heroku
 - **Languages**: Python, C++, C#, R
 - 🌱 I’m currently learning: CI/CD Pipelines, Docker and Kubernetes
 
