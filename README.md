@@ -1,6 +1,6 @@
-## Hi there, I am Areeb 👋
+# Hi there, I am Areeb 👋
 
-# Welcome to My GitHub! 🎉
+## Welcome to My GitHub! 🎉
 
 I'm on a thrilling journey as a Full-stack Developer with skills and interests in Data Science, ML, and CyberSecurity.
 
@@ -19,15 +19,15 @@ I'm on a thrilling journey as a Full-stack Developer with skills and interests i
 
 Dive into some of my mesmerizing projects:
 
-# ML and AI
+### ML and AI
 1. [ML Health Prognosis and Vitals Check-Up Nursing Platform](https://github.com/AreebAshar/ML-Health-Prognosis-Capstone-Project)
 
-# Networks
+### Networks
 1. [TCP Implementation](https://github.com/AreebAshar/TCP_Implementation)
 2. [FTP Client-Server Implementation](https://github.com/AreebAshar/FTP_Client-Server)
 3. [MiniTalk - A client-server chatbpx](https://github.com/AreebAshar/MiniTalk)
 
-# OOP
+### OOP
 1. [C++ Student Registration System](https://github.com/AreebAshar/Student-Registration-System)
 
 ## 📚 Education
